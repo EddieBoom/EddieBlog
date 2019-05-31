@@ -1,9 +1,17 @@
 
-# DimpleBlog
+# EddieBlog
 
 #### 介绍
 
-`Dimple Blog`是基于SpringBoot2搭建的个人博客系统。
+`Eddie Blog`是基于SpringBoot2搭建的个人博客系统。
+
+####本系统引用了边小丰Dimple的源码
+[Dimple的个人博客](http://www.bianxiaofeng.com/)
+
+####
+[Dimple的GitHub](https://github.com/DimpleFeng/DimpleBlog)
+
+
 
 ### 体验链接地址
 
